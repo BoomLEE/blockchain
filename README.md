@@ -12,6 +12,7 @@ Blockchains for Artificial Intelligence
 
 
 How blockchain could change Web-based content distribution 
+
 https://www.weusecoins.com/assets/pdf/library/NTT-JAPAN%20-%20How%20Blockchain%20Could%20Change%20the%20World.pdf
 
 Blockchain technology란
